@@ -1,4 +1,4 @@
-# Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm SANIDHIYA</h1> | :smile:
+# Hi :smile: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm SANIDHIYA</h1> 
 ### I am Cyber Security Analyst, Programmer,App Developer and Web Developer</h2>
 
 <br>
