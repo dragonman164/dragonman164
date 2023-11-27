@@ -1,4 +1,4 @@
-# Hello, I'm Sanidhiya Godiyal (a.k.a. dragonman164) 👋
+# Hello, I'm Sanidhiya (a.k.a. dragonman164) 👋
 
 I'm a passionate Software Engineer and Full Stack Developer based in [Your Location]. Welcome to my GitHub profile!
 
