@@ -4,7 +4,7 @@ I'm a passionate Software Engineer and Full Stack Developer based in [Your Locat
 
 ## About Me
 
-- 💼 I'm currently working as a Software Engineer at STMicroelectronics.
+- 💼 I'm currently working as a Software Engineer at Optum(UHG). 
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💬 Ask me about software development, hackathons, and open-source contributions.
 
